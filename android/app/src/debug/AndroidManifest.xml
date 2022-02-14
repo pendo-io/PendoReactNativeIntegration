@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+
+    <application
+8	        android:usesCleartextTraffic="true"
+9	        tools:targetApi="28"
+10	        tools:ignore="GoogleAppIndexingWarning">
+11	        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+12	    </application>
+</manifest>

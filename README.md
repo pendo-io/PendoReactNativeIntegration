@@ -1,4 +1,4 @@
-# PropertyFinderRN
+# PendoReactNativeIntegration
 
 [![](https://img.shields.io/github/package-json/dependency-version/pendo-io/PendoReactNativeIntegration/rn-pendo-sdk?color=red)]()<br>
 [![](https://img.shields.io/github/package-json/dependency-version/pendo-io/PendoReactNativeIntegration/react-native)]()<br>
@@ -23,8 +23,8 @@ Sample App with Pendo plugin integration for react navigation <br>
 
 
 ## Author
-Tomer Levinson, Udi Levin, David Gimelshtein and Michael Rozenblat
+Pendo io
 
 ## License
-PropertyFinderRN is available under the MIT license. See the [LICENSE](https://github.com/pendo-io/RNNKitchenSink/blob/master/LICENSE) file for more info.
+PendoReactNativeIntegration is available under the MIT license. See the [LICENSE](https://github.com/pendo-io/PendoReactNativeIntegration/blob/master/LICENSE) file for more info.
 

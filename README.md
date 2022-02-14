@@ -1,9 +1,9 @@
 # PropertyFinderRN
 
-[![](https://img.shields.io/badge/react--native-v0.61.5-blue)]() 
+[![](https://img.shields.io/github/package-json/dependency-version/pendo-io/PendoReactNativeIntegration/react-native)]() 
 [![](https://img.shields.io/badge/react-v16.9.0-blue)]() 
 
-Sample App for ract navigation plugin with complex navigation hirarchy<br>
+Sample App with Pendo plugin integration for react navigation <br>
 
 ## Installation:<br>
 `git clone` with url path of the repository<br>

@@ -1,5 +1,6 @@
 # PropertyFinderRN
 
+[![](https://img.shields.io/github/package-json/dependency-version/pendo-io/PendoReactNativeIntegration/rn-pendo-sdk?color=red)]()<br>
 [![](https://img.shields.io/github/package-json/dependency-version/pendo-io/PendoReactNativeIntegration/react-native)]()<br>
 [![](https://img.shields.io/github/package-json/dependency-version/pendo-io/PendoReactNativeIntegration/react)]()<br>
 [![](https://img.shields.io/github/package-json/dependency-version/pendo-io/PendoReactNativeIntegration/@react-navigation/stack)]()<br>

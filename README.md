@@ -1,7 +1,12 @@
 # PropertyFinderRN
 
 [![](https://img.shields.io/github/package-json/dependency-version/pendo-io/PendoReactNativeIntegration/react-native)]() 
-[![](https://img.shields.io/badge/react-v16.9.0-blue)]() 
+[![](https://img.shields.io/github/package-json/dependency-version/pendo-io/PendoReactNativeIntegration/react)]()
+[![](https://img.shields.io/github/package-json/dependency-version/pendo-io/PendoReactNativeIntegration/@react-navigation/stack)]() 
+[![](https://img.shields.io/github/package-json/dependency-version/pendo-io/PendoReactNativeIntegration/@react-navigation/drawer)]()
+[![](https://img.shields.io/github/package-json/dependency-version/pendo-io/PendoReactNativeIntegration/@react-navigation/bottom-tabs)]()
+[![](https://img.shields.io/github/package-json/dependency-version/pendo-io/PendoReactNativeIntegration/@react-navigation/material-top-tabs)]()
+
 
 Sample App with Pendo plugin integration for react navigation <br>
 

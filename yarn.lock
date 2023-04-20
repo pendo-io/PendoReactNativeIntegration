@@ -7028,10 +7028,10 @@ rimraf@~2.2.6:
   resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.2.8.tgz#e439be2aaee327321952730f99a8929e4fc50582"
   integrity sha1-5Dm+Kq7jJzIZUnMPmaiSnk/FBYI=
 
-rn-pendo-sdk@^2.13.1:
-  version "2.13.1"
-  resolved "https://registry.yarnpkg.com/rn-pendo-sdk/-/rn-pendo-sdk-2.13.1.tgz#f99cb6d796c03e098a784d280e0c99cbf4e82786"
-  integrity sha512-eGu5Sbf3nQLzBA9QTZ9tMeVYb9gemcf4qVbs41gvXK9wM75aW75X92CT/35ON8sBupFBJ+hWQjtXAy1XsPDnEw==
+rn-pendo-sdk@^2.21.1:
+  version "2.21.1"
+  resolved "https://registry.yarnpkg.com/rn-pendo-sdk/-/rn-pendo-sdk-2.21.1.tgz#17ea48efa48d26efd6a2f2b63fc1436a18e05269"
+  integrity sha512-FSKHAG4zgnHO6e/N+04VBH1ui1vsdXozGWouE7tFvRJBqQye1cVCWiytBd7ryij8p3C9QZ/CWDeJuGMbw6qoOQ==
 
 rsvp@^4.8.4:
   version "4.8.5"

@@ -84,18 +84,18 @@ function MyDrawer() {
 }
 
 export default MyDrawer;
-//ADDITIONAL OPTIONS COULD BE SUPPLIED AS SECOND PARAMETER TO withPendoRN
+//ADDITIONAL OPTIONS COULD BE SUPPLIED AS SECOND PARAMETER TO WithPendoReactNavigation
 
 //-------CUSTOM BOTTOM BAR----------
 
-//export default withPendoRN(MyDrawer,{ios:{isFirstScreenRelatedToFirstTagIOS: true ,bottomBarBaseNameCandidates:['^mytabbar$']},android:{bottomBarBaseNameCandidates:['^mytabbar$']}});
+//const PendoNavigationContainer = WithPendoReactNavigation(NavigationContainer,{ios:{isFirstScreenRelatedToFirstTagIOS: true ,bottomBarBaseNameCandidates:['^mytabbar$']},android:{bottomBarBaseNameCandidates:['^mytabbar$']}});
 
 //-------CUSTOM BOTTOM BAR----------
 
 //-------CUSTOM ITEMS---------------
 
 //FOR CUSTOM ITEMS THAT ARE NOT PART OR REACT-NATIVE UI ELEMENTS: (PLEASE NOTE: THIS IS AN EDGE CASE AS ALL THE ELEMENTS SHOULD BE RECOGNIZED BY DEFAULT)
-//export default withPendoRN(YOUR_MAIN_FUNCTION,{nativeIDs:["YOUR_NATIVE_ELEMENT_ID"]});
+// const PendoNavigationContainer = WithPendoReactNavigation(NavigationContainer, {nativeIDs:["YOUR_NATIVE_ELEMENT_ID"]});
 
 //YOU MUST ADD YOUR_NATIVE_ELEMENT_ID TO THE ELEMENT YOU WANT TO BE RECOGNIZABLE WITH PENDO, AS WE WILL SCAN ALL THE ELEMENTS UNDER IT.
 //FOR INSTANCE:

@@ -37,7 +37,7 @@
     "react-native-svg-transformer": "^0.14.3",
     "react-native-tab-view": "^3.1.1",
     "react-native-vector-icons": "8.0.0",
-    "rn-pendo-sdk": "^2.13.1"
+    "rn-pendo-sdk": "^2.21.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
